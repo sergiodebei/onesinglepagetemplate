@@ -1,0 +1,37 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="477.048px" height="633.063px" viewBox="0 0 477.048 633.063" enable-background="new 0 0 477.048 633.063"
+	 xml:space="preserve">
+
+<defs>
+    <style type="text/css">
+
+        #tick2{
+         -webkit-animation: circleAnim 4s linear infinite;
+         -webkit-transform-origin: bottom-center;
+        }
+        @-webkit-keyframes circleAnim{
+            from {
+                -webkit-transform: rotate(0deg);
+            }
+            to {
+                -webkit-transform: rotate(360deg);
+            }
+        }
+
+    </style>
+</defs>
+<g id="tick2">
+    <path fill="#FFFFFF" id="tick" d="M235.69,244.339v-6.63c0,0-0.279,1.163-0.759,3.261c-0.477-2.098-0.757-3.261-0.757-3.261v6.63
+        c-6.153,27.721-27.68,133.644,0,144.593v0.496c0.262-0.067,0.504-0.167,0.757-0.248c0.256,0.081,0.498,0.181,0.759,0.248v-0.496
+        C263.371,377.983,241.844,272.06,235.69,244.339"/>
+</g>
+<g id="watch">
+	<rect x="-1020.8" y="-560.791" display="none" fill="#34BCAA" width="2437.8" height="1700.789"/>
+	<circle fill="none" stroke="#FFFFFF" stroke-width="15" stroke-miterlimit="10" cx="234.933" cy="389.249" r="197.115"/>
+	<circle fill="none" stroke="#FFFFFF" stroke-width="15" stroke-miterlimit="10" cx="234.933" cy="101.748" r="56.73"/>
+	<rect x="225.176" y="112.401" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="19.515" height="79.731"/>
+	<rect x="216.933" y="95.671" fill="#FFFFFF" width="36" height="33.461"/>
+</g>
+
+</svg>
